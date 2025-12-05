@@ -21,11 +21,11 @@ export function Footer() {
             <div className="flex items-center mb-6">
               <Heart className="h-8 w-8 text-passion-red mr-3" />
               <h3 className="text-3xl text-passion-red font-['Playfair_Display'] font-bold">
-                L'Amore Durango
+                L'amore Durango
               </h3>
             </div>
             <p className="text-gray-300 mb-6 font-['Poppins'] leading-relaxed max-w-md">
-              Desde 2015, hemos sido los especialistas en crear momentos inolvidables 
+              Desde 2020, hemos sido los especialistas en crear momentos inolvidables 
               en Durango. Cada evento es único, como tú. Tu sueño, nuestra pasión.
             </p>
             <div className="flex space-x-4">
@@ -114,8 +114,8 @@ export function Footer() {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-passion-red mt-1 flex-shrink-0" />
                 <span className="text-gray-300 font-['Poppins'] text-sm">
-                  Av. 20 de Noviembre #123<br />
-                  Zona Centro, Durango
+                  Boulevard Durango #222 <br />
+                  Sahr, Durango Dgo
                 </span>
               </div>
               <div className="flex items-center space-x-3">
@@ -133,7 +133,7 @@ export function Footer() {
                   href="mailto:info@lamoredurango.com"
                   className="text-gray-300 hover:text-passion-red transition-colors font-['Poppins'] text-sm"
                 >
-                  info@lamoredurango.com
+                  lamoredurango413@gmail.com
                 </a>
               </div>
             </div>
@@ -164,7 +164,7 @@ export function Footer() {
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 font-['Poppins'] text-sm">
-              © 2025 L'Amore Durango. Todos los derechos reservados.
+              © 2025 L'amore Durango. Todos los derechos reservados.
             </p>
             <p className="text-passion-red font-['Poppins'] text-sm italic">
               "Creando momentos inolvidables desde el corazón"

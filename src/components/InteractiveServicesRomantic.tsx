@@ -14,6 +14,8 @@ import slide2 from '/events/arco.jpg';
 import slide3 from '/events/letrasgigantes.jpg';
 import slide4 from '/events/matriarco.jpg';
 import slide5 from '/events/matriletras.jpg';
+import slide6 from '/matriletras/paquete1.jpg';
+import slide7 from '/matriletras/paquete2.jpg';
 
 interface PackageOption {
   id: string;
@@ -206,13 +208,13 @@ export function InteractiveServices() {
           name: 'Paquete 1',
           price: '$10,500',
           description: 'Letras gigantes iluminadas, decoración completa, ramo de rosas, pétalos y fotografía profesional',
-          image: 'https://images.unsplash.com/photo-1522673607176-f966874672f0?w=400&h=300&fit=crop'
+          image: slide6
         },
         {
           id: 'paquete2',
           name: 'Paquete 2',
           price: '$15,500',
-          description: 'Todo lo del Paquete 1 más globos premium, luces LED adicionales, alfombra roja y videografía',
+          description: 'Todo lo del Paquete 1 más con Mariachi  Pirotecnia y Chisperos ',
           image: 'https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=400&h=300&fit=crop'
         }
       ]
@@ -243,7 +245,7 @@ export function InteractiveServices() {
     {
       id: 'peticion-matrimonio-letras',
       title: 'Petición de Matrimonio con Letras Gigantes',
-      description: 'Una propuesta épica con letras gigantes "MARRY ME", decoración espectacular, 100 rosas y un momento que quedará grabado para siempre.',
+      description: 'Una propuesta épica con Letras gigantes, decoración completa, 100 rosas, globos, alfombra roja, tarjeta personalizada, fotografía profesional, reservación en jardín privado.',
       image: slide5,
       icon: Sparkles,
       packages: [
@@ -251,15 +253,15 @@ export function InteractiveServices() {
           id: 'paquete1',
           name: 'Paquete 1',
           price: '$10,500',
-          description: 'Letras "MARRY ME" iluminadas, 100 rosas rojas, decoración completa, alfombra roja y fotografía profesional',
-          image: 'https://images.unsplash.com/photo-1529636798458-92182e662485?w=400&h=300&fit=crop'
+          description: 'Letras gigantes, decoración completa, 100 rosas, globos, alfombra roja, tarjeta personalizada, fotografía profesional, reservación en jardín privado',
+          image: slide6
         },
         {
           id: 'paquete2',
           name: 'Paquete 2',
           price: '$15,500',
-          description: 'Todo lo del Paquete 1 más globos premium, arco floral adicional, luces LED, videografía y cena romántica',
-          image: 'https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=400&h=300&fit=crop'
+          description: 'Todo lo del Paquete 1 más con Mariachi  Pirotecnia y Chisperos ',
+          image: slide7
         }
       ]
     }

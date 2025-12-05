@@ -40,7 +40,7 @@ export function Header() {
           <div className="flex items-center group cursor-pointer" onClick={() => scrollToSection('inicio')}>
             <div className="relative flex items-center space-x-3">
               <h1 className="text-3xl lg:text-4xl text-white header-title-romantic header-logo passion-red-glow">
-                L'Amore Durango
+                L'amore Durango
               </h1>
               <Heart
   className="absolute -bottom-2 -right-2 h-4 w-4 text-passion-red opacity-0 group-hover:opacity-100 transition-all duration-500 animate-pulse delay-200"

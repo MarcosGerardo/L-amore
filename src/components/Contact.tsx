@@ -60,9 +60,8 @@ export function Contact() {
               </CardHeader>
               <CardContent>
                 <p className="font-['Poppins'] text-lg text-gray-700">
-                  Av. 20 de Noviembre #123<br />
-                  Zona Centro, Durango<br />
-                  CP 34000, Durango, México
+                     Boulevard Durango #222 <br />
+                  Sahr, Durango Dgo
                 </p>
               </CardContent>
             </Card>
@@ -82,7 +81,6 @@ export function Contact() {
                 </p>
                 <p className="font-['Poppins'] text-lg text-gray-700">
                   <a href="tel:+5218711234567" className="hover:text-burgundy transition-colors">
-                    +52 (871) 123-4567
                   </a>
                 </p>
               </CardContent>
@@ -98,12 +96,12 @@ export function Contact() {
               <CardContent>
                 <p className="font-['Poppins'] text-lg text-gray-700">
                   <a href="mailto:info@lamoredurango.com" className="hover:text-burgundy transition-colors">
-                    info@lamoredurango.com
+                   
                   </a>
                 </p>
                 <p className="font-['Poppins'] text-lg text-gray-700">
-                  <a href="mailto:eventos@lamoredurango.com" className="hover:text-burgundy transition-colors">
-                    eventos@lamoredurango.com
+                  <a href="mailto:lamoredurango413@gmail.com" className="hover:text-burgundy transition-colors">
+                     lamoredurango413@gmail.com
                   </a>
                 </p>
               </CardContent>
@@ -118,9 +116,8 @@ export function Contact() {
               </CardHeader>
               <CardContent>
                 <div className="font-['Poppins'] space-y-2 text-gray-700">
-                  <p><span className="text-gold font-semibold">Lun - Vie:</span> 9:00 AM - 7:00 PM</p>
-                  <p><span className="text-gold font-semibold">Sábado:</span> 10:00 AM - 6:00 PM</p>
-                  <p><span className="text-gold font-semibold">Domingo:</span> 11:00 AM - 4:00 PM</p>
+                  <p><span className="text-gold font-semibold">Lun - Vie:</span> 9:00 AM - 2:00 PM  ó  4:00 pm - 7:00 pm</p>
+                  <p><span className="text-gold font-semibold">Sábado:</span> 10:00 AM - 3:00 PM</p>
                   <p className="text-sm text-gray-500 mt-4">
                     *Citas fuera de horario disponibles con previa coordinación
                   </p>

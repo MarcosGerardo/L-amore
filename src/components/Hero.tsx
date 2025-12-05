@@ -17,6 +17,7 @@ export function Hero() {
   const slides = [
     {
       image: slide1,
+      title: "Cenas , ¿Quieres ser mi novia/o?",
       subtitle: "Convertimos tu sueño de pedida en una realidad mágica"
     },
     {
